@@ -5,3 +5,4 @@ while True:
   if b == a:
     break
  
+print("Такой же текст, только другой ")
